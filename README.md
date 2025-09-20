@@ -1,2 +1,2 @@
 # start-demo
-this is my first repositary
+this is my first Git repositary
